@@ -1,0 +1,5 @@
+/Users/jonathanstull/Desktop/Epicodus/c-sharp/sphinx/obj/Debug/net5.0/Program.csprojAssemblyReference.cache
+/Users/jonathanstull/Desktop/Epicodus/c-sharp/sphinx/obj/Debug/net5.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanstull/Desktop/Epicodus/c-sharp/sphinx/obj/Debug/net5.0/Program.AssemblyInfoInputs.cache
+/Users/jonathanstull/Desktop/Epicodus/c-sharp/sphinx/obj/Debug/net5.0/Program.AssemblyInfo.cs
+/Users/jonathanstull/Desktop/Epicodus/c-sharp/sphinx/obj/Debug/net5.0/Program.csproj.CoreCompileInputs.cache

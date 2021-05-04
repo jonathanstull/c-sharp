@@ -1,0 +1,5 @@
+/Users/jonathanstull/Desktop/Epicodus/c-sharp/double-it/car-dealership/obj/Debug/net5.0/car-dealership.csprojAssemblyReference.cache
+/Users/jonathanstull/Desktop/Epicodus/c-sharp/double-it/car-dealership/obj/Debug/net5.0/car-dealership.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanstull/Desktop/Epicodus/c-sharp/double-it/car-dealership/obj/Debug/net5.0/car-dealership.AssemblyInfoInputs.cache
+/Users/jonathanstull/Desktop/Epicodus/c-sharp/double-it/car-dealership/obj/Debug/net5.0/car-dealership.AssemblyInfo.cs
+/Users/jonathanstull/Desktop/Epicodus/c-sharp/double-it/car-dealership/obj/Debug/net5.0/car-dealership.csproj.CoreCompileInputs.cache
